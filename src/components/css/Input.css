@@ -1,0 +1,25 @@
+.custom-input-container {
+    display: inline-block;
+    padding: 4px 11px;
+    width: 100%;
+    height: 32px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+
+.custom-input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.custom-input:focus,
+.custom-input-container:hover {
+    border-color: #40a9ff;
+    box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+}

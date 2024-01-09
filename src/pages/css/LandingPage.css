@@ -1,0 +1,40 @@
+.landing-page{
+   
+    width: 100vw;
+    height: 100vh;
+}
+
+.landing-top{
+    height: 55%;
+    background-color: rgb(83, 124, 238);
+    background-image: url('../../assets//house-cover.jpg');
+    background-position: center;
+}
+
+.landing-header{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.propert-title{
+    font-size: 70px;
+    color: aliceblue;
+}
+
+.landing-bt-buttons{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-input{
+    padding: 10px;
+}
+
+.search-btn{
+    margin-top: 15px;
+}
