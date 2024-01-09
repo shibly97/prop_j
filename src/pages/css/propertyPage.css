@@ -67,3 +67,51 @@
     justify-content: end;
     padding: 20px;
 }
+
+.floor-img{
+    width: 50%;
+}
+
+.floor-img > img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .propertyPage{
+        /* background-color: yellow; */
+        margin: 10px 10px;
+        padding: 10px;
+        border: 1px solid black;
+        border-radius: 10px;
+        min-height: 80vh;
+        /* display: flex;
+        justify-content: center; */
+    }
+
+    .pro-cover-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        width: 100%;
+        background-color: rgb(196, 202, 202);
+    }
+
+    .pro-cover-img > img{
+        height:auto;
+        width: 100%;
+    }
+
+    .floor-plan{
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .floor-img{
+        width: 100%;
+    }
+
+    .floor-img > img{
+        width: 100%;
+    }
+}

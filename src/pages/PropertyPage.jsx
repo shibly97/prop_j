@@ -68,7 +68,7 @@ export function PropertyPage ({
             
             <div className='floor-plan'>
               Floor Plan
-              <div>
+              <div className='floor-img'>
                 <img src={data.floorPlan}/>
               </div>
             </div>
