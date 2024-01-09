@@ -29,11 +29,6 @@ export const filterProperties = (properties, criteria) => {
         if (criteria.minBedrooms && property.bedrooms < criteria.minBedrooms) return false;
         if (criteria.maxBedrooms && property.bedrooms > criteria.maxBedrooms) return false;
 
-        // // Filter by date
-        // const addedDate = new Date(property.added.year, monthMapping[property.added.month] - 1, property.added.day);
-        // console.log("daa", addedDate,  criteria.startDate)
-        // if ((criteria.startDate && addedDate < criteria.startDate) || (criteria.endDate && addedDate > criteria.endDate)) return false;
-
         const addedDateMoment = moment(`${property.added.year}-${monthMapping[property.added.month]}-${property.added.day}`);
         const startDateMoment = criteria.startDate ? moment(criteria.startDate, "YYYY-MM-DD") : null;
         const endDateMoment = criteria.endDate ? moment(criteria.endDate, "YYYY-MM-DD") : null;

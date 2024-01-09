@@ -11,6 +11,8 @@
 			"picture":"images/prop1pic1small.jpg",
             "coverImage": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdXNlfGVufDB8fDB8fHww",
 			"url":"properties/prop1.html",
+            "latitude": 7.8731,
+            "longitude": 80.7718,
             "added": {
                 "month":"October",
                 "day":12,
@@ -42,6 +44,8 @@
                 "day":14,
                 "year":2022
             },
+            "latitude": 9.8731,
+            "longitude": 81.7718,
             "coverImage":"https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
             "images": [
                 "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -70,10 +74,15 @@
               "day": 15,
               "year": 2023
             },
+            "latitude": 10.8731,
+            "longitude": 70.7718,
             "images": [
               "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress&cs=tinysrgb&w=600",
               "https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg?auto=compress&cs=tinysrgb&w=600",
-              "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&w=600"
+              "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2089698/pexels-photo-2089698.jpeg?auto=compress&cs=tinysrgb&w=600"
             ],
             "floorPlan": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sq_KFoPfKBp0Kf9kzXZ65X7jK_emJVVzlYhWpp7JtCAagTp0FCftaeuWq6-Z4s4vvAI&usqp=CAU"
           },
@@ -93,10 +102,15 @@
               "day": 22,
               "year": 2023
             },
+            "latitude": 15.8731,
+            "longitude": 20.7718,
             "images": [
-              "https://images.unsplash.com/photo-1591033727959-64d34a0845f7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZXxlbnwwfHwwfHx8MA%3D%3D",
-              "https://images.unsplash.com/photo-1541744925687-4b9a3f5c6c8e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG9tZXxlbnwwfDB8MHx8fDA%3D%3D",
-              "https://images.unsplash.com/photo-1551675861-6119b4da6d31?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWV8ZW58MHwwfDB8fHww"
+              "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2121120/pexels-photo-2121120.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/279607/pexels-photo-279607.jpeg?auto=compress&cs=tinysrgb&w=600"
             ],
             "floorPlan": "https://i.pinimg.com/originals/96/09/e2/9609e2593d0bf336c3b8a3d9f174b34f.png"
           },
@@ -116,10 +130,15 @@
               "day": 5,
               "year": 2023
             },
+            "latitude": 8.9731,
+            "longitude": 40.7518,
             "images": [
-              "https://images.unsplash.com/photo-1575384542768-83067f6768e3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZXxlbnwwfHwwfHx8MA%3D%3D",
-              "https://images.unsplash.com/photo-1606224151722-c97db7f6f015?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG9tZXxlbnwwfDB8MHx8fDA%3D%3D",
-              "https://images.unsplash.com/photo-1586348943521-32483f5a4c7f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWV8ZW58MHwwfDB8fHww"
+              "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=600"
             ],
             "floorPlan": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4YTPMLcKh7xq_AptdvVaI9e4OwWnpK7reZUnlUDHaTtfWTUV_eSlUn9WaakYUe9kXEA&usqp=CAU"
           },
@@ -139,10 +158,15 @@
               "day": 10,
               "year": 2023
             },
+            "latitude": 8.4731,
+            "longitude": 40.6518,
             "images": [
               "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=600",
               "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600",
-              "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=600"
+              "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/259580/pexels-photo-259580.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/261045/pexels-photo-261045.jpeg?auto=compress&cs=tinysrgb&w=600"
             ],
             "floorPlan": "https://saterdesign.com/cdn/shop/products/8084-Salesplan_M_1200x.jpg?v=1587498151"
           },
@@ -162,10 +186,15 @@
               "day": 5,
               "year": 2023
             },
+            "latitude": 8.4731,
+            "longitude": 40.6518,
             "images": [
               "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg?auto=compress&cs=tinysrgb&w=600",
               "https://images.pexels.com/photos/261045/pexels-photo-261045.jpeg?auto=compress&cs=tinysrgb&w=600",
-              "https://images.pexels.com/photos/2134224/pexels-photo-2134224.jpeg?auto=compress&cs=tinysrgb&w=600"
+              "https://images.pexels.com/photos/2134224/pexels-photo-2134224.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/280232/pexels-photo-280232.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "https://images.pexels.com/photos/2343466/pexels-photo-2343466.jpeg?auto=compress&cs=tinysrgb&w=600"
             ],
             "floorPlan": "https://i.pinimg.com/originals/fd/9b/d4/fd9bd4e1e860fde37868787c0d20a0f1.png"
           }

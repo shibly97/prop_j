@@ -6,6 +6,7 @@ import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
 import {numberWithCommas} from '../utils'
 import { Button} from 'react-bootstrap';
+import GoogleMap from '../components/GoogleMap'
 
 
 export function PropertyPage ({
@@ -74,6 +75,13 @@ export function PropertyPage ({
                 <img src={data.floorPlan}/>
               </div>
             </div>
+
+            <div  className='floor-plan'>
+              Location
+              <div className='map-container'>
+                      <GoogleMap latitude={data.latitude} longitude={data.longitude}/>
+                  </div>
+              </div>
           </div>
         </Tab>
       </Tabs>

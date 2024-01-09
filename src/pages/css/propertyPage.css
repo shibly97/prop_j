@@ -76,16 +76,23 @@
     width: 100%;
 }
 
+.map-container{
+    /* background-color: tomato; */
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    margin: 15px 10px;
+}
+
 @media only screen and (max-width: 600px) {
     .propertyPage{
-        /* background-color: yellow; */
         margin: 10px 10px;
         padding: 10px;
         border: 1px solid black;
         border-radius: 10px;
         min-height: 80vh;
-        /* display: flex;
-        justify-content: center; */
     }
 
     .pro-cover-img{
