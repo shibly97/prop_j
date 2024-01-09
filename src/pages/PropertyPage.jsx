@@ -29,7 +29,9 @@ export function PropertyPage ({
 
     const removeFromFev = () => {
       const indexOf = favourits.findIndex(row => row.id == id)
-      const newArr =  favourits.splice(1, 1);
+      const newArr =  favourits
+      newArr.splice( indexOf, 1);
+      // const newArr =  favourits.splice( indexOf, 1);
       setFavourits([...newArr])
     }
     
@@ -55,7 +57,7 @@ export function PropertyPage ({
 
             <div className='image-set'>
               {data.images.map((image, index) => {
-                return <div className='set-img'>
+                return <div className='set-img' key={index}>
                           <img key={index} src={image}/>
                     </div>
               })}
